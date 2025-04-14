@@ -1,0 +1,31 @@
+# Ignore the virtual environment folder
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VSCode and PyCharm project settings
+.vscode/
+.idea/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and local databases
+*.log
+*.sqlite3
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Mac & Linux system files
+.DS_Store
+Thumbs.db
