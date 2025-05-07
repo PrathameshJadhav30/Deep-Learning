@@ -1,0 +1,85 @@
+# Python
+
+**pycache**/
+\*.py\[cod]
+\*.so
+\*.egg
+\*.egg-info/
+dist/
+build/
+.eggs/
+\*.env
+.env
+venv/
+ENV/
+env/
+.venv/
+
+# Virtual environments
+
+.env\*/
+
+# Jupyter Notebook checkpoints
+
+.ipynb\_checkpoints/
+
+# IDE config files
+
+.vscode/
+.idea/
+
+# OS files
+
+.DS\_Store
+Thumbs.db
+
+# Streamlit file uploads and results
+
+/uploads/
+/results/
+
+# YOLOv5 artifacts
+
+yolov5/runs/
+
+# Weights
+
+\*.pt
+
+# TensorBoard logs
+
+\*.log
+
+# EasyOCR cache
+
+\~/.EasyOCR/
+
+# Logs and debug
+
+\*.log
+
+# VSCode settings
+
+.settings/
+
+# Data files
+
+\*.csv
+\*.json
+\*.xml
+
+# Dataset folder
+
+DataSet/
+
+# System files
+
+\*.bak
+\*.tmp
+
+# PyTorch checkpoint files
+
+checkpoint\*.pth
+
+#results
+results2/
